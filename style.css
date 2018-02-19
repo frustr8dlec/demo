@@ -1,0 +1,24 @@
+	body {
+	font-family: arial;
+	}
+	
+	h1 {
+	background-color:#CCC;  
+	border: 1px solid; 
+	color:#39F;  
+	text-align: center; 
+	}
+
+	ul { 
+	border: 0px; 
+	}
+	
+	p { 
+	color:#09F; 
+	text-indent: 20px;  
+	}
+
+	li { 
+	color:#09F; 
+	text-indent: 20px; 
+	}
